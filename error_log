@@ -1,0 +1,347 @@
+[16-Feb-2021 08:06:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastnesi/marshepollo.net/panel/koneksi.php on line 8
+[16-Feb-2021 08:11:21 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastnesi/marshepollo.net/panel/koneksi.php on line 8
+[16-Feb-2021 08:12:22 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/_topnav.php on line 6
+[16-Feb-2021 08:26:45 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:26:45 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:26:45 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:26:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:27:21 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:27:21 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:27:21 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:27:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:27:25 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:27:25 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:27:25 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:27:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:27:55 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:27:55 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:27:55 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:27:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:27:59 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:27:59 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:27:59 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:27:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:28:04 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:28:04 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:28:04 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:28:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:28:06 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:28:06 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:28:06 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:28:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:28:21 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:28:21 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:28:21 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:28:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:28:23 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:28:23 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:28:23 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:28:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:09 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:29:09 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:29:09 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:10 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:29:10 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:29:10 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:12 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:29:12 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:29:12 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:45 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:29:45 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:29:45 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:29:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:30:30 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/_topnav.php on line 6
+[16-Feb-2021 08:31:18 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:31:18 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:31:18 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:31:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:31:52 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 29
+[16-Feb-2021 08:31:52 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 40
+[16-Feb-2021 08:31:52 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:31:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:31:54 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 29
+[16-Feb-2021 08:31:54 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 40
+[16-Feb-2021 08:31:54 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:31:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:22 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 29
+[16-Feb-2021 08:32:22 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 40
+[16-Feb-2021 08:32:22 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 29
+[16-Feb-2021 08:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 40
+[16-Feb-2021 08:32:30 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:31 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 29
+[16-Feb-2021 08:32:31 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 40
+[16-Feb-2021 08:32:31 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:34 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 29
+[16-Feb-2021 08:32:34 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 40
+[16-Feb-2021 08:32:34 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:37 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 29
+[16-Feb-2021 08:32:37 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 40
+[16-Feb-2021 08:32:37 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:39 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 29
+[16-Feb-2021 08:32:39 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 40
+[16-Feb-2021 08:32:39 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:32:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 47
+[16-Feb-2021 08:34:32 Asia/Jakarta] PHP Notice:  Undefined variable: sess_username in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 52
+[16-Feb-2021 08:34:32 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 64
+[16-Feb-2021 08:34:32 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 08:34:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/fastnesi/marshepollo.net/panel/pulsa.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/fastnesi/marshepollo.net/panel/pulsa.php on line 71
+[16-Feb-2021 09:43:44 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/_topnav.php on line 6
+[16-Feb-2021 10:29:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastnesi/marshepollo.net/panel/includes/scripts.php on line 22
+[16-Feb-2021 10:30:13 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:30:13 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:30:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastnesi/marshepollo.net/panel/includes/scripts.php on line 22
+[16-Feb-2021 10:30:54 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:30:54 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:30:54 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastnesi/marshepollo.net/panel/includes/scripts.php on line 22
+[16-Feb-2021 10:31:53 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:31:53 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:31:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastnesi/marshepollo.net/panel/includes/scripts.php on line 22
+[16-Feb-2021 10:32:35 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:32:35 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:32:35 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastnesi/marshepollo.net/panel/includes/scripts.php on line 22
+[16-Feb-2021 10:32:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:32:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:32:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastnesi/marshepollo.net/panel/includes/scripts.php on line 22
+[16-Feb-2021 10:33:45 Asia/Jakarta] PHP Warning:  require_once(../includes/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 4
+[16-Feb-2021 10:33:45 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../includes/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 4
+[16-Feb-2021 10:34:13 Asia/Jakarta] PHP Warning:  require_once(../includes/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 4
+[16-Feb-2021 10:34:13 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../includes/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 4
+[16-Feb-2021 10:34:20 Asia/Jakarta] PHP Warning:  require_once(../includes/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 4
+[16-Feb-2021 10:34:20 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../includes/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 4
+[16-Feb-2021 10:34:21 Asia/Jakarta] PHP Warning:  require_once(../includes/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 4
+[16-Feb-2021 10:34:21 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../includes/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 4
+[16-Feb-2021 10:34:24 Asia/Jakarta] PHP Warning:  require_once(../includes/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 4
+[16-Feb-2021 10:34:24 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../includes/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 4
+[16-Feb-2021 10:35:05 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:35:05 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:35:05 Asia/Jakarta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fastnesi/marshepollo.net/panel/includes/scripts.php on line 22
+[16-Feb-2021 10:42:58 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:42:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:43:17 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:43:17 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:43:24 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:43:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:43:29 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:43:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:43:31 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:43:31 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:44:54 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:44:54 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:45:06 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:45:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:45:27 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:45:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:45:38 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:45:38 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 10:45:42 Asia/Jakarta] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fastnesi/marshepollo.net/panel/session.php on line 3
+[16-Feb-2021 10:45:42 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:1) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 11:42:47 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 300
+[16-Feb-2021 11:42:47 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 12:47:01 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:01 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:17 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:17 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:23 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:23 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:25 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:25 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:28 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:28 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:31 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:31 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:31 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:31 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:32 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:32 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:32 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:32 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:32 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:32 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:33 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:33 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:51 Asia/Jakarta] PHP Warning:  require_once(../session.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:51 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../session.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 3
+[16-Feb-2021 12:47:57 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[16-Feb-2021 12:47:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 13:45:33 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[16-Feb-2021 13:45:33 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 13:51:36 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/fastnesi/marshepollo.net/panel/proses_login.php on line 10
+[16-Feb-2021 13:51:36 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/fastnesi/marshepollo.net/panel/proses_login.php on line 11
+[16-Feb-2021 14:33:22 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[16-Feb-2021 14:33:22 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 16:00:43 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[16-Feb-2021 16:00:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 17:27:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 18
+[16-Feb-2021 17:27:46 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/fastnesi/marshepollo.net/panel/proses_login.php on line 10
+[16-Feb-2021 17:27:46 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/fastnesi/marshepollo.net/panel/proses_login.php on line 11
+[16-Feb-2021 17:27:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 18
+[16-Feb-2021 17:28:10 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[16-Feb-2021 17:28:10 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 17:28:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 18
+[16-Feb-2021 17:29:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 18
+[16-Feb-2021 17:29:12 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[16-Feb-2021 17:29:12 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 17:29:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 18
+[16-Feb-2021 17:29:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 18
+[16-Feb-2021 17:37:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 18
+[16-Feb-2021 17:40:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 18
+[16-Feb-2021 17:41:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 18
+[16-Feb-2021 17:42:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 18
+[16-Feb-2021 17:42:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 18
+[16-Feb-2021 18:02:43 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[16-Feb-2021 18:02:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 18:59:52 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 18:59:52 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:01:59 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:01:59 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:02:00 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:02:00 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:02:01 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:02:01 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:02:51 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:02:51 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:02:53 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:02:53 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:04:30 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:04:30 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:04:33 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:04:33 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:05:00 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:05:00 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:05:30 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:05:30 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:05:43 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:05:43 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:05:44 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:05:44 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:06:01 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:06:01 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:06:48 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:06:48 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:07:35 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:07:35 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:08:04 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:08:04 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:08:28 Asia/Jakarta] PHP Warning:  require_once(../lib/header.php): failed to open stream: No such file or directory in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:08:28 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '../lib/header.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/fastnesi/marshepollo.net/panel/profile.php on line 3
+[16-Feb-2021 19:24:29 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[16-Feb-2021 19:24:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[16-Feb-2021 22:59:56 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[16-Feb-2021 22:59:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[17-Feb-2021 14:51:57 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[17-Feb-2021 14:51:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[17-Feb-2021 15:01:44 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[17-Feb-2021 15:01:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[17-Feb-2021 15:17:11 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[17-Feb-2021 15:17:11 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[18-Feb-2021 06:38:20 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[18-Feb-2021 06:38:20 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[02-Mar-2021 19:03:28 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[02-Mar-2021 19:03:28 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[11-Apr-2021 14:20:57 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[11-Apr-2021 14:20:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[12-Apr-2021 17:08:08 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[12-Apr-2021 17:08:08 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[12-Apr-2021 17:17:24 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[12-Apr-2021 17:17:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
+[12-Apr-2021 21:03:55 Asia/Jakarta] PHP Notice:  Undefined index: auth in /home/fastnesi/marshepollo.net/panel/includes/navbar.php on line 273
+[12-Apr-2021 21:03:55 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fastnesi/marshepollo.net/panel/includes/navbar.php:23) in /home/fastnesi/marshepollo.net/panel/dashboard.php on line 12
