@@ -1,10 +1,20 @@
-<h3><b>Script Website Data Kelas</b></h3>
-Script Ini dibuat dengan php dan beberapa gabungan lainnya, script ini juga cukup mudah diinstall dan dikembangkan oleh kalian.
-Jadi kalian bisa mengembangkan script ini dengan lebih baik dan mungkin ditambah fiturenya.
+# Web Data Kelas
 
-BTW Script ini sudah dibuat sejak sebelum pandemi sekitar 2019an dan baru sempat saya upload ke github pada 10 Januari 2023.
-</br></br>
-Untuk SQL / DATABASE Sudah dicantumkan juga didalam repository ini yaaa.
-<br><br>
-<b>Dukung Saya: [Saweria](https://saweria.co/mrsh) / [BuyMeACoffee](https://buymeacoffee.com/mrshollo)</b>
-<br><br>Selamat Menggunakan, Semoga Bermanfaat :)
+**Web Data Kelas** adalah aplikasi berbasis web yang dibangun menggunakan **PHP Native** untuk pengelolaan data kelas. Aplikasi ini mempermudah pengelolaan data seperti jadwal/mata pelajaran, data barang, dan informasi terkait kelas secara terstruktur dan mudah diakses.
+
+---
+
+## ✨ Fitur Utama
+- **Manajemen Data Kelas**: Tambah, edit, hapus, dan lihat data kelas.
+- **Pengelolaan Jadwal/Mata Pelajaran**: Input, ubah, dan tampilkan jadwal mata pelajaran untuk setiap kelas.
+- **Data Barang**: Manajemen data inventaris barang yang terkait dengan kelas.
+- **Desain Responsif**: Antarmuka yang responsif untuk digunakan di berbagai perangkat.
+- **Navigasi yang Mudah**: Tata letak antarmuka yang sederhana dan user-friendly.
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+- **PHP Native**: Backend untuk pengelolaan data dan logika aplikasi.
+- **HTML & CSS**: Membentuk antarmuka pengguna.
+- **JavaScript**: Untuk meningkatkan interaktivitas aplikasi.
+- **MySQL**: Basis data untuk menyimpan data kelas, jadwal/mata pelajaran, dan inventaris barang.
